@@ -1366,3 +1366,202 @@ xAPI can record:
 - Learning Record Store (LRS)
 - Enterprise Learning
 - Learning Management Systems
+---
+
+# Enterprise LMS Architecture
+
+A modern Enterprise Learning Management System (LMS) integrates with multiple business systems to deliver personalized learning, automate administration, and provide organization-wide reporting.
+
+```text
+                          Enterprise Users
+                                 │
+       ┌─────────────────────────┼─────────────────────────┐
+       │                         │                         │
+       ▼                         ▼                         ▼
+ Employees                 Managers                   Administrators
+       │                         │                         │
+       └─────────────── Authentication (SSO) ─────────────┘
+                                 │
+                                 ▼
+                  Enterprise Learning Management System
+                                 │
+ ┌──────────────┬──────────────┬──────────────┬──────────────┐
+ ▼              ▼              ▼              ▼              ▼
+Course      Learning      Assessments   Certifications   Analytics
+Library       Paths
+ │              │              │              │              │
+ └──────────────┴──────────────┴──────────────┴──────────────┘
+                                 │
+                                 ▼
+                         Reporting Dashboard
+                                 │
+              ┌──────────────────┼──────────────────┐
+              ▼                  ▼                  ▼
+             HR               Executives          Compliance
+```
+
+---
+
+## Typical Enterprise Integrations
+
+Enterprise LMS platforms commonly integrate with:
+
+### Identity Providers
+
+- Microsoft Entra ID
+- Okta
+- Google Workspace
+- Active Directory
+
+### HR Systems
+
+- Workday
+- BambooHR
+- SAP SuccessFactors
+- Oracle HCM
+
+### Collaboration Platforms
+
+- Microsoft Teams
+- Slack
+- Zoom
+- Google Meet
+
+### Productivity Platforms
+
+- Microsoft 365
+- Google Workspace
+
+### Learning Standards
+
+- SCORM
+- xAPI
+- cmi5
+- LTI
+
+---
+
+# Enterprise LMS Workflow
+
+```text
+Employee Created
+        │
+        ▼
+Single Sign-On
+        │
+        ▼
+Role Assigned
+        │
+        ▼
+Learning Path Assigned
+        │
+        ▼
+Courses Completed
+        │
+        ▼
+Assessment Passed
+        │
+        ▼
+Certificate Issued
+        │
+        ▼
+Manager Review
+        │
+        ▼
+Analytics Dashboard
+```
+
+---
+
+# Enterprise LMS Capabilities
+
+Modern enterprise LMS platforms typically support:
+
+- Employee onboarding
+- Compliance management
+- Continuing Professional Education (CPE)
+- Skills development
+- Learning paths
+- AI-powered recommendations
+- Certification management
+- Reporting dashboards
+- Mobile learning
+- Virtual instructor-led training
+- Course authoring
+- Learning analytics
+- Competency tracking
+- Department management
+- Multi-language learning
+- API integrations
+- Single Sign-On (SSO)
+- Automated notifications
+
+---
+
+## Key Benefits
+
+- Centralized learning management
+- Consistent employee development
+- Better compliance tracking
+- Improved reporting
+- Personalized learning
+- Reduced administrative workload
+- Better employee engagement
+- Scalable workforce development
+- ---
+
+# LMS vs Learning Experience Platform (LXP)
+
+Although Learning Management Systems (LMS) and Learning Experience Platforms (LXP) both support employee learning, they serve different purposes.
+
+| Feature | LMS | LXP |
+|----------|-----|-----|
+| Primary Goal | Manage learning | Personalize learning |
+| Course Assignment | Yes | Limited |
+| Compliance Training | Excellent | Limited |
+| Certification Tracking | Yes | Limited |
+| Learning Paths | Yes | Yes |
+| AI Recommendations | Some Platforms | Core Feature |
+| User Generated Content | Limited | Excellent |
+| Social Learning | Basic | Strong |
+| Reporting | Extensive | Moderate |
+| Best For | Enterprises | Continuous Learning |
+
+---
+
+## When to Use an LMS
+
+Choose an LMS if you need:
+
+- Compliance Training
+- Employee Onboarding
+- Certification Tracking
+- Manager Reporting
+- Enterprise Learning
+- HR Integration
+- Learning Administration
+- Department Management
+
+---
+
+## When to Use an LXP
+
+Choose an LXP if you need:
+
+- Personalized Learning
+- AI Recommendations
+- Social Learning
+- User Generated Content
+- Skill Discovery
+- Continuous Learning
+- Content Curation
+
+---
+
+## Can Organizations Use Both?
+
+Yes.
+
+Many enterprises use an LMS as the system of record while using an LXP to improve learner engagement and content discovery.
+
+This approach combines structured training, compliance management, and reporting with AI-driven recommendations and personalized learning experiences.
