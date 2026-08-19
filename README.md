@@ -1778,4 +1778,108 @@ Manager Dashboard
 - Corporate Training
 - Employee Development
 - Competency Management
-- 
+- ---
+
+# Learning Paths
+
+A learning path is a structured sequence of courses, assessments, and activities designed to help learners achieve a specific skill, certification, or career objective.
+
+Learning paths simplify employee development by organizing content into logical steps rather than requiring learners to search for individual courses.
+
+---
+
+## Benefits of Learning Paths
+
+Organizations use learning paths to:
+
+- Standardize employee onboarding
+- Accelerate skill development
+- Prepare employees for promotions
+- Support certification programs
+- Improve learning engagement
+- Reduce training time
+- Track learner progress
+
+---
+
+## Common Learning Paths
+
+### New Employee Onboarding
+
+```text
+Company Orientation
+        │
+        ▼
+HR Policies
+        │
+        ▼
+Security Awareness
+        │
+        ▼
+Role-Based Training
+        │
+        ▼
+Manager Approval
+```
+
+---
+
+### Leadership Development
+
+```text
+Communication Skills
+        │
+        ▼
+Conflict Resolution
+        │
+        ▼
+Performance Management
+        │
+        ▼
+Strategic Planning
+        │
+        ▼
+Leadership Certification
+```
+
+---
+
+### Technical Learning
+
+```text
+Fundamentals
+        │
+        ▼
+Intermediate Skills
+        │
+        ▼
+Advanced Projects
+        │
+        ▼
+Assessment
+        │
+        ▼
+Certification
+```
+
+---
+
+## Best Practices
+
+- Define a clear learning objective.
+- Keep each path focused on a specific role or competency.
+- Include assessments between milestones.
+- Update learning paths as business needs evolve.
+- Review learner progress regularly.
+- Use analytics to improve completion rates.
+
+---
+
+## Related Topics
+
+- Learning Management Systems (LMS)
+- Skills Assessment
+- Employee Development
+- Corporate Training
+- AI-Powered Learning
+- Learning Analytics
