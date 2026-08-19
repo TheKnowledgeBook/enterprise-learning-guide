@@ -1230,3 +1230,139 @@ Typical data collected includes:
 - Learning Management Systems
 - Learning Analytics
 - Enterprise Learning
+---
+
+# Experience API (xAPI)
+
+The Experience API (xAPI), also known as Tin Can API, is a modern eLearning specification that records learning experiences both inside and outside a Learning Management System (LMS).
+
+Unlike SCORM, xAPI can capture learning from mobile apps, simulations, virtual reality (VR), augmented reality (AR), webinars, classroom sessions, and other learning activities.
+
+---
+
+## Why xAPI Matters
+
+Traditional LMS platforms primarily track learning that occurs within the LMS. xAPI expands this by recording learning experiences wherever they happen.
+
+Organizations use xAPI to:
+
+- Track learning across multiple systems
+- Measure informal learning
+- Capture offline learning activities
+- Improve learning analytics
+- Support mobile learning
+- Build personalized learning paths
+- Connect multiple learning platforms
+
+---
+
+## How xAPI Works
+
+```text
+Learner Activity
+        │
+        ▼
+Statement Created
+        │
+        ▼
+Learning Record Store (LRS)
+        │
+        ▼
+Reports & Analytics
+        │
+        ▼
+Managers / HR / L&D Teams
+```
+
+---
+
+## xAPI Statement Structure
+
+Every learning activity is recorded using a simple statement:
+
+```
+Actor → Verb → Object
+```
+
+Example:
+
+```
+John completed Cybersecurity Awareness Training
+```
+
+Another example:
+
+```
+Sarah passed Financial Reporting Assessment
+```
+
+---
+
+## Information Captured
+
+xAPI can record:
+
+- Course completions
+- Assessment scores
+- Video progress
+- Webinar attendance
+- Mobile learning
+- Classroom participation
+- Simulation results
+- VR training
+- AR learning
+- Certification completion
+
+---
+
+## Advantages
+
+- Tracks learning anywhere
+- Supports offline learning
+- Mobile-friendly
+- Flexible data model
+- Rich learning analytics
+- Works with modern learning ecosystems
+- Future-ready standard
+
+---
+
+## xAPI vs SCORM
+
+| Feature | SCORM | xAPI |
+|----------|--------|------|
+| LMS Required | Yes | No |
+| Offline Learning | Limited | Yes |
+| Mobile Learning | Limited | Yes |
+| VR / AR Support | No | Yes |
+| Informal Learning | Limited | Yes |
+| Learning Analytics | Basic | Advanced |
+
+---
+
+## Best Practices
+
+- Use an LRS to centralize learning records.
+- Track meaningful learning events.
+- Standardize activity naming.
+- Review analytics regularly.
+- Protect learner privacy.
+
+---
+
+## Official Resources
+
+- https://adlnet.gov/
+- https://xapi.com/
+- https://opensource.ieee.org/xapi
+
+---
+
+## Related Topics
+
+- SCORM
+- cmi5
+- Learning Analytics
+- Learning Record Store (LRS)
+- Enterprise Learning
+- Learning Management Systems
