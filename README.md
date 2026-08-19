@@ -1565,3 +1565,217 @@ Yes.
 Many enterprises use an LMS as the system of record while using an LXP to improve learner engagement and content discovery.
 
 This approach combines structured training, compliance management, and reporting with AI-driven recommendations and personalized learning experiences.
+---
+
+# Learning Analytics
+
+Learning analytics is the process of collecting, analyzing, and reporting data about learner activities to improve learning outcomes, employee performance, and organizational decision-making.
+
+Enterprise organizations use learning analytics to understand how employees engage with training, identify skill gaps, measure compliance, and evaluate the effectiveness of learning programs.
+
+---
+
+## Why Learning Analytics Matters
+
+Learning analytics helps organizations:
+
+- Measure training effectiveness
+- Improve employee performance
+- Identify skill gaps
+- Increase course completion rates
+- Monitor compliance
+- Optimize learning paths
+- Support workforce planning
+- Demonstrate training ROI
+
+---
+
+## Key Metrics
+
+### Learner Metrics
+
+- Course enrollments
+- Course completions
+- Time spent learning
+- Assessment scores
+- Learning streaks
+- Certification progress
+
+### Business Metrics
+
+- Compliance completion
+- Department performance
+- Skills coverage
+- Employee retention
+- Productivity improvements
+- Training ROI
+
+---
+
+## Dashboard Metrics
+
+Modern LMS dashboards commonly include:
+
+| Metric | Description |
+|---------|-------------|
+| Active Learners | Number of active users |
+| Completion Rate | Percentage of completed courses |
+| Average Score | Average assessment score |
+| Certifications | Active certifications |
+| Learning Hours | Total training hours |
+| Compliance Rate | Mandatory training completion |
+
+---
+
+## Benefits
+
+- Better reporting
+- Improved decision making
+- Faster identification of skill gaps
+- Personalized learning recommendations
+- Higher employee engagement
+- Stronger compliance tracking
+- Workforce planning
+
+---
+
+## Best Practices
+
+- Define measurable KPIs
+- Review dashboards regularly
+- Compare departments
+- Monitor learning trends
+- Protect learner privacy
+- Continuously improve learning programs
+
+---
+
+## Related Topics
+
+- Enterprise Learning
+- Learning Management Systems
+- AI Learning
+- Skills Assessment
+- Compliance Training
+- Learning Paths
+- ---
+
+# Skills Assessment
+
+Skills assessments help organizations evaluate employee knowledge, identify competency gaps, and recommend targeted learning opportunities. They provide measurable insights into workforce capabilities and support data-driven talent development.
+
+---
+
+## Why Skills Assessments Matter
+
+Organizations use skills assessments to:
+
+- Measure current knowledge
+- Identify competency gaps
+- Support hiring decisions
+- Build personalized learning paths
+- Prepare employees for certifications
+- Improve workforce planning
+- Measure training effectiveness
+
+---
+
+## Types of Skills Assessments
+
+### Technical Skills
+
+Examples include:
+
+- Programming
+- Cybersecurity
+- Cloud Computing
+- Data Analysis
+- Networking
+- Accounting Software
+
+---
+
+### Business Skills
+
+Examples include:
+
+- Leadership
+- Communication
+- Project Management
+- Sales
+- Customer Service
+- Marketing
+
+---
+
+### Compliance Knowledge
+
+Organizations assess understanding of:
+
+- Workplace Ethics
+- Information Security
+- Data Privacy
+- Company Policies
+- Industry Regulations
+
+---
+
+## Assessment Methods
+
+- Multiple Choice Questions
+- Practical Exercises
+- Case Studies
+- Simulations
+- Scenario-Based Questions
+- Hands-on Labs
+- Oral Assessments
+- Peer Reviews
+
+---
+
+## Assessment Workflow
+
+```text
+Employee Starts Assessment
+           │
+           ▼
+Questions Delivered
+           │
+           ▼
+Answers Submitted
+           │
+           ▼
+Automatic Scoring
+           │
+           ▼
+Skill Gap Analysis
+           │
+           ▼
+Recommended Learning Path
+           │
+           ▼
+Manager Dashboard
+```
+
+---
+
+## Best Practices
+
+- Align assessments with job roles
+- Update questions regularly
+- Combine theory and practical tasks
+- Provide actionable feedback
+- Use results to guide learning plans
+- Track progress over time
+
+---
+
+## Related Topics
+
+- Learning Analytics
+- Learning Paths
+- AI-Powered Learning
+- Corporate Training
+- Employee Development
+- Competency Management
+- 
