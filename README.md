@@ -1112,3 +1112,121 @@ Enterprise learning platforms simplify CPE by providing:
 - Compliance Training
 - Professional Certifications
 - Employee Development
+---
+
+# SCORM (Sharable Content Object Reference Model)
+
+SCORM is one of the most widely adopted eLearning standards for packaging, delivering, and tracking online learning content. It enables learning content to work consistently across different Learning Management Systems (LMS).
+
+Developed through the Advanced Distributed Learning (ADL) Initiative, SCORM became the industry standard for enterprise and academic eLearning.
+
+---
+
+## Why SCORM Matters
+
+SCORM provides interoperability between learning content and LMS platforms.
+
+Organizations use SCORM to:
+
+- Deliver standardized training
+- Track learner progress
+- Record assessment scores
+- Monitor course completion
+- Improve reporting
+- Reuse learning content
+- Reduce vendor lock-in
+
+---
+
+## Common SCORM Versions
+
+| Version | Description |
+|---------|-------------|
+| SCORM 1.1 | Initial release |
+| SCORM 1.2 | Most widely supported version |
+| SCORM 2004 | Added sequencing and navigation |
+
+---
+
+## SCORM Architecture
+
+```text
+Authoring Tool
+        │
+        ▼
+SCORM Package (.zip)
+        │
+        ▼
+Learning Management System
+        │
+        ▼
+Employee Launches Course
+        │
+        ▼
+Progress Tracked
+        │
+        ▼
+Completion Recorded
+```
+
+---
+
+## Information Tracked by SCORM
+
+Typical data collected includes:
+
+- Learner name
+- Course status
+- Completion status
+- Time spent
+- Assessment score
+- Pass / Fail
+- Bookmark location
+- Session history
+
+---
+
+## Advantages
+
+- Industry standard
+- Supported by most LMS platforms
+- Easy deployment
+- Reliable tracking
+- Reusable content
+- Mature ecosystem
+
+---
+
+## Limitations
+
+- Limited offline support
+- Focused primarily on LMS-based learning
+- Less flexible than modern standards such as xAPI
+- Difficult to track learning outside the LMS
+
+---
+
+## Best Practices
+
+- Use SCORM 1.2 when broad compatibility is required.
+- Test packages before deployment.
+- Keep course packages lightweight.
+- Validate completion tracking.
+- Use meaningful reporting fields.
+
+---
+
+## Official Resources
+
+- ADL Initiative — https://adlnet.gov/
+- SCORM Overview — https://scorm.com/scorm-explained/
+
+---
+
+## Related Topics
+
+- xAPI
+- cmi5
+- Learning Management Systems
+- Learning Analytics
+- Enterprise Learning
